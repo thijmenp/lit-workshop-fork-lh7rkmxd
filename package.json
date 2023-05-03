@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/thijmenp.lit-workshop-fork-lh7rkmxd",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ZU8HSWL5zWwHQUOX8iHS --open"
+  },
+  "dependencies": {
+    "firebase": "^8.0.0"
+  }
+}
